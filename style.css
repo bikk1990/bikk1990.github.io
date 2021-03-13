@@ -4,13 +4,13 @@ h1 {
 p {
   font-family: Roboto;
 }
-button, button:active, button:focus {
+.bigbutton, .bigbutton:active, .bigbutton:focus {
 height: 40px; width: 150px; font-family: Roboto; font-size: 18px; border: solid 1px; border-radius: 100px; background-color: darkGrey; color: white;
 }
-button:active {
+.bigbutton:active {
 outline: none !important; background-color: DimGrey;
 }
-button:focus {
+.bigbutton:focus {
 outline: none !important;
 }
 
