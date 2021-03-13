@@ -1,3 +1,9 @@
+h1 {
+  font-family: Roboto;
+}
+p {
+  font-family: Roboto;
+}
 button, button:active, button:focus {
 height: 40px; width: 150px; font-family: Roboto; font-size: 18px; border: solid 1px; border-radius: 100px; background-color: darkGrey; color: white;
 }
@@ -7,12 +13,7 @@ outline: none !important; background-color: DimGrey;
 button:focus {
 outline: none !important;
 }
-h1 {
-  font-family: Roboto;
-}
-.test {
-color: darkgreen;
-}
+
 
 .left-heart {
   background-image:url(galya.jpg);
