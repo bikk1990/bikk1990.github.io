@@ -16,7 +16,7 @@ outline: none !important;
 
 
 .left-heart {
-  background-image:url(galya.jpg);
+  background-image:url(igor.jpg);
   background-position:center center;
   background-size:cover;
   width:300px;
@@ -24,7 +24,7 @@ outline: none !important;
   border-radius:300px 300px 0 300px;
 }
 .right-heart {
-  background-image:url(igor.jpg);
+  background-image:url(galya.jpg);
   background-position:center center;
   background-size:cover;
   width:300px;
