@@ -1,5 +1,8 @@
 button {
-outline: none; height: 40px; width: 150px; font-family: Roboto; font-size: 18px; border: solid 1px; border-radius: 100px; background-color: darkGrey; color: white;
+height: 40px; width: 150px; font-family: Roboto; font-size: 18px; border: solid 1px; border-radius: 100px; background-color: darkGrey; color: white;
+}
+button:active {
+  outline: none; 
 }
 h1 {
   font-family: Roboto;
