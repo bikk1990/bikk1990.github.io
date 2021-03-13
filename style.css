@@ -13,3 +13,28 @@ h1 {
 .test {
 color: darkgreen;
 }
+
+.left-heart {
+  background-image:url(galya.jpg);
+  background-position:center center;
+  background-size:cover;
+  width:300px;
+  height:300px;
+  border-radius:300px 300px 0 300px;
+}
+.right-heart {
+  background-image:url(igor.jpg);
+  background-position:center center;
+  background-size:cover;
+  width:300px;
+  height:300px;
+  border-radius:300px 300px 300px 0;
+}
+.right-heart:active {
+  width:500px;
+  height:500px;
+}
+.left-heart:active {
+  width:500px;
+  height:500px;
+}
